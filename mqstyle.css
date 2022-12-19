@@ -101,7 +101,7 @@
         right: -200px;
         color: white;
         white-space: nowrap;
-        font-size: 7.5vw;
+        font-size: 15vw;
         z-index: 8; 
     }
     #btn
@@ -124,7 +124,7 @@
         background: #1c0522;
     }
     .sec h2{
-        font-size: 3.5em;
+        font-size: 2.5em;
         margin-bottom: 10px;
         color: #fff;
     }
