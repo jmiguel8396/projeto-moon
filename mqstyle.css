@@ -7,9 +7,9 @@
         font-family: 'Poppins', sans-serif;
         scroll-behavior: smooth;
     }
-    body
+    html, body
     {
-        min-height: 100vh; 
+        min-height: 100%; 
         overflow-x: hidden;
         background: linear-gradient(#2b1055, #7597de);
     }
@@ -114,7 +114,7 @@
         color: #2b1055;
         font-size: 1.5em;
         z-index: 9;
-        transform: translateY(50px);
+        transform: translate(-10px, 80px);
         
     }
     .sec
